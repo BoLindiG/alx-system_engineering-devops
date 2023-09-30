@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 777 /vv/www
+sudo chmod -R 777
