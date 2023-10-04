@@ -1,2 +1,2 @@
 #!/bin/bash
-delete .js
+grep ".js" | tr -d .js
