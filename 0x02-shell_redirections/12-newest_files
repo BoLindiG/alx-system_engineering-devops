@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -ul . -1 ls -t
